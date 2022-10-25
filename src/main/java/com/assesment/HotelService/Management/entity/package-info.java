@@ -1,0 +1,1 @@
+package com.assesment.HotelService.Management.entity;
